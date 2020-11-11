@@ -4,6 +4,6 @@ cache:
   directories: $HOME/.m2 
 notifications: 
   email: 
-    recipients: yourgithubaccountemail@example.com 
+    recipients: ehsun_m_hanif@hotmail.com
     on_failure: always 
     on_success: never
